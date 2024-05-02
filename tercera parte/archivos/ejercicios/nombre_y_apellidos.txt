@@ -1,0 +1,8 @@
+Los datos son:
+
+nombre: Lucas, apellido: Sosa
+------------
+nombre: Pedro, apellido: Morena
+------------
+nombre: Camila, apellido: Sanchez
+------------
